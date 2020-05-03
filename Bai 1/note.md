@@ -17,5 +17,11 @@
 + Kết luận: dù hiện đã là năm 2020 nhưng học php vẫn là một lựa chọn an toàn và thông minh. Nếu bạn chưa chắc mình thích gì, tại sao không thử
 + Mình thích thì mình code thôi =))
 
-
++ Về nội dung khóa học:
+    + yêu cầu người học cần học qua về html và css (search gg có rất nhiều khóa) hoặc vừa học php vừa bổ sung lại kiến thức html (nếu quên)
+    + các bạn sẽ được học về những thứ cơ bản của php: biến, vòng lặp, render data , cơ sở dữ liệu, mysql
+    + cuối khóa sẽ làm một trang web đơn giản có chức năng login, logout, đăng bài, xóa bài, sửa bài ...
+    + Học xong khóa này các bạn nên luyện tập một hai tuần rồi cày tiếp khóa php hướng đối tượng của mình
+    + Sau khi học học xong, các bạn hãy tiếp tục học hỏi không ngừng từ youtube hoặc mốt số khóa học có phí (trên mạng).
+    + chúc các bạn học tốt
 
