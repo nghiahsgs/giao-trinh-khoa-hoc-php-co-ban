@@ -6,7 +6,7 @@
     // toan tu co ban: +,-,*,/,^
     echo $money+5000;
     //thu tu thuc hien phep toan: nhan chia trc, cong tru sau
-    // neu ko chac chan ve thu tu => dung dau ngoac ()
+    // neu ko chac chan ve thu tu => dung dau ngoac (), ko nen dung dau ngoac vuong hoac ngoac nhon de bieu thi su uu tien trong lap trinh 
 
     echo 2+2*2;
 
